@@ -1,5 +1,3 @@
-<h2> Hi, I'm <a href='https://vedant-kumar.vercel.app/' target="_blank">Vedant Kumar</a> !
-
 ![Cover](coverImg.gif)
 
 <p align="center">
@@ -31,12 +29,6 @@ const VedantKumar = {
     "Linux",
   ],
   Experience: ["Lync", "IFFCO"],
-  Projects: [
-    "https://storeit-storage-management.vercel.app/",
-    "https://weathrfy.vercel.app/#/approximatelocation",
-    "https://beta.kromosom.ai/",
-    "https://www.entomoninstitute.com/",
-  ],
   Education: "KIIT University",
   contact: {
     email: "vedantkumar02@gmail.com",
